@@ -16,7 +16,7 @@ app.get('/hello', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-  res.send('"/" page');
+  res.send('"/" page xxx');
 });
 
 app.listen(port);
