@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/kjirou/heroku-review-apps-playground/issues"
   },
-  "homepage": "https://github.com/kjirou/heroku-review-apps-playground#readme"
+  "homepage": "https://github.com/kjirou/heroku-review-apps-playground#readme",
+  "private": true
 }
