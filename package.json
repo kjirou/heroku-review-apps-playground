@@ -1,0 +1,24 @@
+{
+  "name": "heroku-review-apps-playground",
+  "version": "0.0.0",
+  "description": "Revieeew Aaaaaaaapps!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/heroku-review-apps-playground.git"
+  },
+  "author": "kjirou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjirou/heroku-review-apps-playground/issues"
+  },
+  "homepage": "https://github.com/kjirou/heroku-review-apps-playground#readme",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
